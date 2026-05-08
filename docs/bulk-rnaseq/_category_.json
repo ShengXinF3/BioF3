@@ -1,0 +1,8 @@
+{
+  "label": "bulk RNA-seq 实践教程",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "从测序数据到差异表达和功能解释的 bulk RNA-seq 实践路线。"
+  }
+}

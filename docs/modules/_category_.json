@@ -1,0 +1,8 @@
+{
+  "label": "单细胞实践教程",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "按真实项目顺序组织的单细胞数据分析实践教程，从数据获取到结果共享。"
+  }
+}

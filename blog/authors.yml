@@ -1,0 +1,9 @@
+biof3:
+  name: BioF3 团队
+  title: 生物信息学数据分析专家
+  url: https://github.com/ShengXinF3
+  image_url: /img/avatars/biof3.svg
+  page: true
+  description: 专注于生物组学数据分析的中文学习平台，提供系统化、实践导向的教程
+  socials:
+    github: ShengXinF3

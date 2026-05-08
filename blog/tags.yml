@@ -1,0 +1,38 @@
+单细胞:
+  label: 单细胞分析
+  description: 单细胞转录组数据分析相关内容
+  permalink: /single-cell
+
+基因组:
+  label: 基因组学
+  description: 基因组数据分析相关内容
+  permalink: /genomics
+
+转录组:
+  label: 转录组学
+  description: 转录组数据分析相关内容
+  permalink: /transcriptomics
+
+教程:
+  label: 教程
+  description: 数据分析教程和指南
+  permalink: /tutorial
+
+工具:
+  label: 工具推荐
+  description: 生物信息学工具和软件推荐
+  permalink: /tools
+
+经验分享:
+  label: 经验分享
+  description: 数据分析经验和技巧分享
+  permalink: /experience
+多组学:
+  label: 多组学
+  description: 多组学数据整合分析
+  permalink: /multi-omics
+
+整合分析:
+  label: 整合分析
+  description: 多组学数据整合分析方法
+  permalink: /integration

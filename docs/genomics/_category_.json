@@ -1,0 +1,8 @@
+{
+  "label": "基因组学实践教程",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "围绕重测序、变异检测和注释的基因组学实践路线。"
+  }
+}
